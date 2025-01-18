@@ -5,7 +5,7 @@
 ## Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
 
-My name is [Abdul Aouwal](https://www.facebook.com/aouwal/), and I am an SEO professional and digital marketing consultant. I have a passion for programming and code, and I am currently working with machine learning, Django, and the Django Rest Framework. I love making connections between programming and SEO, and I enjoy discovering new ways to improve my skills in both areas. In my free time, I enjoy spending time with my family and friends, and I am always looking for new opportunities to learn and grow.
+My name is [Abdul Aouwal](https://www.facebook.com/itshikkha/), and I am an SEO professional and digital marketing consultant. I have a passion for programming and code, and I am currently working with machine learning, Django, and the Django Rest Framework. I love making connections between programming and SEO, and I enjoy discovering new ways to improve my skills in both areas. In my free time, I enjoy spending time with my family and friends, and I am always looking for new opportunities to learn and grow.
 
 
 ## languages and tools
